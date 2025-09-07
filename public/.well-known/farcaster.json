@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CoinButler",
+    "subtitle": "Built with Zara",
+    "description": "CoinButler is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app",
+    "splashImageUrl": "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app/image.png",
+    "tagline": "CoinButler",
+    "screenshotUrls": [
+      "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app/screenshot.png",
+      "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://6deda0c4d17c4dad98485b9fffa08513-hfum.vercel.app/api/webhook"
+  }
+}

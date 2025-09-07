@@ -1,0 +1,14 @@
+{
+  "name": "CoinButler",
+  "description": "CoinButler is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://6deda0c4-d17c-4dad-9848-5b9fffa08513.vercel.app",
+  "properties": {
+    "app": {
+      "name": "CoinButler",
+      "description": "CoinButler is a Base Mini App built with Zara.",
+      "url": "https://6deda0c4-d17c-4dad-9848-5b9fffa08513.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
